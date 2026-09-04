@@ -7,7 +7,7 @@ about:
   head: d4c68b9
   archived: false
   latestVersion: 1.0
-  collectedAt: 2026-09-04T19:59:53Z
+  collectedAt: 2026-09-04T20:40:16Z
 timeline:
   created: 2023-07-22
   lastCommit: 2025-07-28
@@ -83,5 +83,43 @@ total:
   openIssue: 3
   commit: 8
 ---
+path: /home/runner/.x-repo/github.com/jart/jtckdint
+collectedAt: 2026-09-04T20:40:17Z
+loc:
+  CHeader:
+    code: 568
+    comments: 54
+    blanks: 29
+    files: 1
+  C:
+    code: 169
+    comments: 15
+    blanks: 19
+    files: 2
+  Sh:
+    code: 50
+    comments: 2
+    blanks: 7
+    files: 2
+  Makefile:
+    code: 6
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 378
+    blanks: 56
+    files: 1
+  Text:
+    code: 0
+    comments: 13
+    blanks: 3
+    files: 1
+total:
+  code: 799
+  comments: 462
+  blanks: 117
+  files: 8
 ---
 
