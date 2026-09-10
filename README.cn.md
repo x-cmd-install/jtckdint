@@ -12,6 +12,18 @@ C23 Checked Arithmetic
 x install jtckdint
 ```
 
+## 代码规模
+
+合计: **793** 行代码（覆盖前 5 种语言、共 **7** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| CHeader | 568 | 54 | 29 | 1 |
+| C | 169 | 15 | 19 | 2 |
+| Sh | 50 | 2 | 7 | 2 |
+| Makefile | 6 | 0 | 3 | 1 |
+| Markdown | 0 | 378 | 56 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/jart/jtckdint>
@@ -22,12 +34,6 @@ x install jtckdint
 - **最新版本**: `1.0` (2024-12-07)
 - **最近提交**: 2025-07-28
 - **Release 含资产**: 1 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [jtckdint.h](https://github.com/jart/jtckdint/releases/download/1.0/jtckdint.h) | 30.6 KiB | `other` |
 
 ## 流行度
 
@@ -42,20 +48,17 @@ x install jtckdint
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last720d | 2024-09-20 | 1 | 3 | 1 | 2 | 3 | 6 |
 
-## 代码规模
+## Release 资产
 
-合计: **793** 行代码（覆盖前 5 种语言、共 **7** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| CHeader | 568 | 54 | 29 | 1 |
-| C | 169 | 15 | 19 | 2 |
-| Sh | 50 | 2 | 7 | 2 |
-| Makefile | 6 | 0 | 3 | 1 |
-| Markdown | 0 | 378 | 56 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [jtckdint.h](https://github.com/jart/jtckdint/releases/download/1.0/jtckdint.h) | 30.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -66,4 +69,4 @@ jtckdint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:02:33Z._
